@@ -4,7 +4,7 @@ import Head from 'next/head';
 
 
 import React, { useEffect, useMemo } from 'react';
-import styles from './PotatoFlour.module.css';
+import styles from './Potatoflour.module.css';
 import Footer from '../../../../Footer/Footer';
 import Nav from '../../../../Navbar/NavbarTYP';
 
